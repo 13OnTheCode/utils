@@ -1,0 +1,46 @@
+{
+  "name": "@13onthecode/utils",
+  "version": "0.0.1",
+  "description": "A collection of JavaScript/TypeScript utility tools",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://github.com/13OnTheCode/utils#readme",
+  "bugs": "https://github.com/13OnTheCode/utils/issues",
+  "author": {
+    "name": "13OnTheCode",
+    "email": "13@ryongyon.com",
+    "url": "https://ryongyon.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13OnTheCode/utils.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "typescript",
+    "javaScript",
+    "utils"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "build": "pkgroll --minify"
+  },
+  "devDependencies": {
+    "@13onthecode/eslint-config": "^1.1.9",
+    "@13onthecode/types": "^0.0.1",
+    "@13onthecode/typescript-config": "^0.0.5",
+    "@types/node": "^20.10.4",
+    "eslint": "^8.55.0",
+    "pkgroll": "^2.0.1",
+    "typescript": "^5.3.3"
+  },
+  "exports": "./dist/index.mjs",
+  "types": "./dist/index.d.mts",
+  "files": [
+    "dist"
+  ]
+}
