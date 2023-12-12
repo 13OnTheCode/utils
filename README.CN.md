@@ -145,6 +145,10 @@ const deepMerged = mergeObject(foo, bar, { mode: 'deep' })
 - [`isWeakRef`](src/guard/isWeakRef.ts)
 - [`isWeakSet`](src/guard/isWeakSet.ts)
 
+### Map
+
+- [`mergeMap`](src/map/mergeMap.ts)
+
 ### Node
 
 - [`isDev`](src/node/isDev.ts)

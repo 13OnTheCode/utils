@@ -78,6 +78,11 @@ export * from './guard/isWeakRef'
 export * from './guard/isWeakSet'
 
 /**
+ * Map
+**/
+export * from './map/mergeMap'
+
+/**
  * Node
 **/
 export * from './node/isDev'
