@@ -104,6 +104,11 @@ export * from './runtime/isNode'
 export * from './runtime/isServer'
 
 /**
+ * Set
+**/
+export * from './set/mergeSet'
+
+/**
  * String
 **/
 export * from './string/camelCase'

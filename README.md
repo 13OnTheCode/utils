@@ -167,6 +167,10 @@ const deepMerged = mergeObject(foo, bar, { mode: 'deep' })
 - [`isNode`](src/runtime/isNode.ts)
 - [`isServer`](src/runtime/isServer.ts)
 
+### Set
+
+- [`mergeSet`](src/set/mergeSet.ts)
+
 ### String
 
 - [`camelCase`](src/string/camelCase.ts)
