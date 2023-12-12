@@ -9,8 +9,8 @@ devDependencies:
     specifier: ^1.1.9
     version: 1.1.9(eslint-plugin-import@2.29.0)(eslint@8.55.0)(typescript@5.3.3)
   '@13onthecode/types':
-    specifier: ^0.0.1
-    version: 0.0.1(typescript@5.3.3)
+    specifier: ^0.0.2
+    version: 0.0.2(typescript@5.3.3)
   '@13onthecode/typescript-config':
     specifier: ^0.0.5
     version: 0.0.5(typescript@5.3.3)
@@ -62,8 +62,8 @@ packages:
       - vue-eslint-parser
     dev: true
 
-  /@13onthecode/types@0.0.1(typescript@5.3.3):
-    resolution: {integrity: sha512-Qbhtpw5uvSfn36628eJ4qMswEqmoE+qmbtUXVQZV0J52liRf7rZbXgjoEqaIX78be2GiwK678qTam+YOyYnjXA==}
+  /@13onthecode/types@0.0.2(typescript@5.3.3):
+    resolution: {integrity: sha512-UiVpVT9e138nrkMbl4OLkhS0CUaJsl4Ido5SqJUQMygvJq/7a9zuN+D7xBSnoWhNi5ZgKrWMZZ4g8s4iBS91Qg==}
     engines: {node: '>=16'}
     peerDependencies:
       typescript: '>=5.0.0'
