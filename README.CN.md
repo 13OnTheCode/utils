@@ -86,6 +86,7 @@ const deepMerged = mergeObject(foo, bar, { mode: 'deep' })
 
 - [`IsArray`](src/guard/isArray.ts)
 - [`IsArrayBuffer`](src/guard/isArrayBuffer.ts)
+- [`isArrayBufferView`](src/guard/isArrayBufferView.ts)
 - [`IsAsyncFunction`](src/guard/isAsyncFunction.ts)
 - [`IsAsyncIterable`](src/guard/isAsyncIterable.ts)
 - [`IsBigInt`](src/guard/isBigInt.ts)

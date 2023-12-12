@@ -18,6 +18,7 @@ export * from './collocation/toEntries'
 **/
 export * from './guard/isArray'
 export * from './guard/isArrayBuffer'
+export * from './guard/isArrayBufferView'
 export * from './guard/isAsyncFunction'
 export * from './guard/isAsyncIterable'
 export * from './guard/isBigInt'
