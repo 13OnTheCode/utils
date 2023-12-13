@@ -77,6 +77,7 @@ const deepMerged = mergeObject(foo, bar, { mode: 'deep' })
 ### Collocation
 
 - [`clone`](src/collocation/clone.ts)
+- [`defaults`](src/collocation/defaults.ts)
 - [`getRawType`](src/collocation/getRawType.ts)
 - [`matchRawType`](src/collocation/matchRawType.ts)
 - [`toArray`](src/collocation/toArray.ts)

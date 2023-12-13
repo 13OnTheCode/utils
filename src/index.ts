@@ -8,6 +8,7 @@ export * from './array/mergeArray'
  * Collocation
 **/
 export * from './collocation/clone'
+export * from './collocation/defaults'
 export * from './collocation/getRawType'
 export * from './collocation/matchRawType'
 export * from './collocation/toArray'
